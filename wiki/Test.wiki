@@ -2,7 +2,7 @@ A simple test
 
 = Introduction =
 
-== Add your content here.==
+Add your content here.
 
 
 = Details =
