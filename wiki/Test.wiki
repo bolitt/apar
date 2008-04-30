@@ -1,4 +1,4 @@
-#A simple test
+A simple test
 
 = Introduction =
 
