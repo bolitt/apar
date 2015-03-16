@@ -1,0 +1,1 @@
+The project is established by several students in THU, which is concentrated on the designing and implementation of a system at **hardware level**(FPGA), based on the **Altera DE1**. We intend to develop the in **Verilog HDL** or **VHDL** to provide basic function of **audio process and recognition**.
